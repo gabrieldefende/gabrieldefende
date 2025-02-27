@@ -19,4 +19,4 @@
 ![GitHub followers](https://img.shields.io/github/followers/gabrieldefende?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/gabrieldefende?style=social)
 
-<img src="https://user-images.githubusercontent.com/74038190/212281780-0afd9616-8310-46e9-a898-c4f5269f1387.gif" width="100">
+
