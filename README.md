@@ -15,5 +15,5 @@
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=gabrieldefende&show_icons=true&theme=dark)
 
-![GIF](https://media.giphy.com/media/https://www.google.com/search?sca_esv=0ac4b8938639300a&sxsrf=AHTn8zpOcOaQNayLVbegs5AHTYR4byfWnA:1740667512156&q=gif+matrix&udm=2&fbs=ABzOT_BYhiZpMrUAF0c9tORwPGlsjfkTCQbVbkeDjnTQtijddBji9NlWFbRgtIhh9CBGrAVAQBozFDaOkVTS4exBr1watbcE1h1Veo-lZ28ho7G16KOMIOMs9MrQuxLX1NTE9w8caoTRmmZZH26GMUYl_XcXn5KHN3RnXSKmDyItRDj6t7u-4r41q_pl0OrMrG4Bh4i1BD5INHFeLi5WZW4lmyNe15MiNQ&sa=X&sqi=2&ved=2ahUKEwjNue_li-SLAxUDq5UCHWKNNSMQtKgLegQIERAB&biw=1536&bih=695&dpr=1.25#vhid=PsXiY8jIJBoxdM&vssid=mosaic/giphy.gif)
+![GIF](https://media.giphy.com/media/https://www.google.com/search?q=gifs+cyberpunk+&sca_esv=0ac4b8938639300a&udm=2&biw=1536&bih=695&sxsrf=AHTn8zqlANPHgNTr7g653hwuHI1FwavjGw%3A1740668353968&ei=wX3AZ6rgOsDz1sQPnOTysQU&ved=0ahUKEwjqxKP3juSLAxXAuZUCHRyyPFYQ4dUDCBE&uact=5&oq=gifs+cyberpunk+&gs_lp=EgNpbWciD2dpZnMgY3liZXJwdW5rIDIEEAAYHjIEEAAYHjIGEAAYCBgeMgYQABgIGB4yBhAAGAgYHjIGEAAYCBgeMgYQABgIGB4yBhAAGAgYHjIGEAAYCBgeMgYQABgIGB5ImipQ0wJYrSdwAngAkAEAmAGEAaAB-w2qAQQwLjE1uAEDyAEA-AEBmAIQoALbDcICBRAAGIAEwgIGEAAYBRgewgIHECMYJxjJAsICCBAAGIAEGLEDwgIKEAAYgAQYsQMYCpgDAIgGAZIHBDIuMTSgB4pN&sclient=img#vhid=A47PjPRfMd4IgM&vssid=mosaic/giphy.gif)
 
