@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Gabriel!
 
-<!--
-**gabrieldefende/gabrieldefende** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor Full Stack | 🚀 Apaixonado por tecnologia
 
-Here are some ideas to get you started:
+📌 **Sobre mim**
+- 🔭 Atualmente trabalhando com JavaScript, PHP, .NET e bancos de dados SQL/NoSQL
+- 📚 Estudando novas tecnologias e melhores práticas de desenvolvimento
+- 🎯 Focado em otimização e escalabilidade de sistemas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 **Estatísticas do GitHub**
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dark)
+
+📫 **Entre em contato comigo:**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gabriel-defende)
+[![Portfólio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://seusite.com)
