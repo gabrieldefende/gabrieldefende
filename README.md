@@ -13,4 +13,4 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gabriel-defende)
 [![Portfólio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://seusite.com)
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=gabriel-defende&show_icons=true&theme=dark)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=gabrieldefende&show_icons=true&theme=dark)
