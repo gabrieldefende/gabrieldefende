@@ -8,7 +8,7 @@
 - 🎯 Focado em otimização e escalabilidade de sistemas
 
 📊 **Estatísticas do GitHub**
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dark)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=gabriel-defende&show_icons=true&theme=dark)
 
 📫 **Entre em contato comigo:**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gabriel-defende)
