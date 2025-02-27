@@ -14,3 +14,6 @@
 [![Portfólio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://seusite.com)
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=gabrieldefende&show_icons=true&theme=dark)
+
+![GIF](https://media.giphy.com/media/YOUR_GIF_LINK/giphy.gif)
+
