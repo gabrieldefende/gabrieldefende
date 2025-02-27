@@ -17,3 +17,5 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/gabrieldefende?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/gabrieldefende?style=social)
+
+![Descrição do GIF](https://media.giphy.com/media/https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjIxczU3OHd5NHp1cWJ5YmU1a3RuN3BsZG44NDNmZWpvZGp6NDJoYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MC6eSuC3yypCU/giphy.gif/giphy.gif)
