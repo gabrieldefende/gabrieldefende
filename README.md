@@ -26,7 +26,7 @@
     
   ## 🌐 other
   
-  [![My Skills](https://skillicons.dev/icons?i=typescript,php,mysql,postgresql,nodejs,azure,docker,next,sqlite,flutter,firebase,mongo,postman)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=typescript,php,mysql,postgresql,nodejs,azure,docker,sqlite,flutter,firebase,mongo,postman)](https://skillicons.dev)
 
   </td>
 
@@ -34,6 +34,8 @@
         
   </tr>
 </table>
+
+
 
 <div align="center">
 
