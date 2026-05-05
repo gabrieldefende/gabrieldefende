@@ -1,3 +1,9 @@
+<!-- HEADER ANIMADO ROXO NEON -->
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&color=9400D3&center=true&vCenter=true&width=600&lines=Gabriel+Defende;Engenheiro+de+Software;FullStack+Developer;Sempre+aprendendo+🚀" />
+
+</div>
 <table>
   <tr>
     <td style="width: 50%;">
@@ -31,11 +37,7 @@
 
 <div align="center">
 
-```
-————————————————————————————————————————————————————
-  gabrieldefende // README.md // BUILD: 2026 // V.01
-————————————————————————————————————————————————————
-```
+
 
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=gabrieldefende.gabrieldefende&left_color=black&right_color=red)
 
