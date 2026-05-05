@@ -16,11 +16,11 @@
 
   ## 🕹️ stacks
     
-  [![My Skills](https://skillicons.dev/icons?i=c,cs,py,git,unity,godot,html,css,js,react,nodejs,tailwind,figma)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=cs,py,git,html,css,js,react,nodejs,tailwind,figma)](https://skillicons.dev)
     
   ## 🌐 other
   
-  [![My Skills](https://skillicons.dev/icons?i=typescript,php,mysql,postgresql,prisma,docker,vite,next,vuejs,nuxt,mongo,postman)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=typescript,php,mysql,postgresql,nodejs,azure,docker,next,sqlite,flutter,firebase,mongo,postman)](https://skillicons.dev)
 
   </td>
 
