@@ -10,13 +10,15 @@ permissions:
 
 concurrency:
   group: snake-${{ github.repository }}
-  cancel-in-progress: true
+  cancel-in-progress: false
 
 jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: main
 
       - name: Gerar cobrinha a partir do grid de contribuições
         uses: Platane/snk@v3
@@ -28,6 +30,7 @@ jobs:
 
       - name: Gravar SVG e GIF na raiz do repositório (branch main)
         run: |
+          set -e
           cp dist/github-contribution-grid-snake-dark.svg github-contribution-grid-snake-dark.svg
           cp dist/github-contribution-grid-snake-dark.gif github-contribution-grid-snake-dark.gif
           git config user.name "github-actions[bot]"
@@ -35,7 +38,8 @@ jobs:
           git add github-contribution-grid-snake-dark.svg github-contribution-grid-snake-dark.gif
           if git diff --staged --quiet; then
             echo "Nenhuma alteração na cobrinha."
-          else
-            git commit -m "chore: atualiza animação da cobrinha"
-            git push
+            exit 0
           fi
+          git commit -m "chore: atualiza animação da cobrinha"
+          git pull --rebase origin main
+          git push

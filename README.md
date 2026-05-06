@@ -1,4 +1,3 @@
-<!-- HEADER ANIMADO ROXO NEON -->
 <div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&color=9400D3&center=true&vCenter=true&width=600&lines=Gabriel+Defende;Engenheiro+de+Software;FullStack+Developer;Sempre+aprendendo+🚀" />
@@ -37,20 +36,13 @@
   />
 </p>
 
-> O gráfico usa apenas **repositórios públicos**. Código em repositórios privados não entra na estatística (a menos que você hospede sua própria instância do github-readme-stats com token). Com poucos repos públicos, as porcentagens refletem só o que o GitHub consegue contar — ainda assim o badge costuma funcionar.
-
 ## Cobrinha de contribuições
 
 <p align="center">
-  <!-- SVG (leve). Para usar o GIF depois, troque a URL para .../github-contribution-grid-snake-dark.gif -->
   <img
-    alt="Animação snake das contribuições no GitHub"
-    src="https://raw.githubusercontent.com/gabrieldefende/gabrieldefende/main/github-contribution-grid-snake-dark.svg"
+    alt="Contribuições no GitHub"
+    src="github-contribution-grid-snake-dark.svg"
   />
-</p>
-
-<p align="center">
-  <sub>Arquivos <code>github-contribution-grid-snake-dark.svg</code> / <code>.gif</code> na raiz, atualizados pelo workflow <code>.github/workflows/snake.yml</code> na <code>main</code>. <strong>Actions → Generate Snake → Run workflow</strong> se precisar gerar de novo.</sub>
 </p>
 
 ## My Activity
