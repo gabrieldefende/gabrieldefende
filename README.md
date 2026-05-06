@@ -31,8 +31,8 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieldefende&layout=donut&theme=tokyonight&hide_border=true&langs_count=10&locale=pt-br"
-    alt="Distribuição aproximada das linguagens nos repositórios públicos"
+    src="profile/top-langs.svg"
+    alt="Linguagens mais usadas (repositórios públicos)"
   />
 </p>
 

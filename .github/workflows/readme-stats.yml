@@ -1,0 +1,47 @@
+name: Update top languages card
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/readme-stats.yml"
+  schedule:
+    - cron: "0 4 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: readme-stats-${{ github.repository }}
+  cancel-in-progress: false
+
+jobs:
+  top-langs:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Gerar card de linguagens
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=donut&theme=tokyonight&hide_border=true&langs_count=10&locale=pt-br&exclude_repo=gabrieldefende
+          path: profile/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit e push
+        run: |
+          set -e
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/top-langs.svg
+          if git diff --staged --quiet; then
+            echo "Sem alterações no card de linguagens."
+            exit 0
+          fi
+          git commit -m "chore: atualiza card de linguagens"
+          git pull --rebase origin main
+          git push
