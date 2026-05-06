@@ -45,12 +45,12 @@
   <!-- SVG (leve). Para usar o GIF depois, troque a URL para .../github-contribution-grid-snake-dark.gif -->
   <img
     alt="Animação snake das contribuições no GitHub"
-    src="https://raw.githubusercontent.com/gabrieldefende/gabrieldefende/output/github-contribution-grid-snake-dark.svg"
+    src="https://raw.githubusercontent.com/gabrieldefende/gabrieldefende/main/github-contribution-grid-snake-dark.svg"
   />
 </p>
 
 <p align="center">
-  <sub>Artefatos gerados pelo workflow <code>.github/workflows/snake.yml</code> na branch <code>output</code>. Rode <strong>Actions → Generate Snake → Run workflow</strong> uma vez se a imagem ainda não aparecer.</sub>
+  <sub>Arquivos <code>github-contribution-grid-snake-dark.svg</code> / <code>.gif</code> na raiz, atualizados pelo workflow <code>.github/workflows/snake.yml</code> na <code>main</code>. <strong>Actions → Generate Snake → Run workflow</strong> se precisar gerar de novo.</sub>
 </p>
 
 ## My Activity
