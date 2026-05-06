@@ -35,6 +35,13 @@
   </tr>
 </table>
 
+# My Activity
+<p align="center">
+ <img src="https://streak-stats.demolab.com?user=gabrieldefende&theme=tokyonight&hide_border=true&mode=weekly&card_width=500"/>
+
+ 
+</p>
+
 
 
 <div align="center">
@@ -44,3 +51,4 @@
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=gabrieldefende.gabrieldefende&left_color=black&right_color=red)
 
 </div>
+
