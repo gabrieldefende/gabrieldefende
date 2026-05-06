@@ -27,7 +27,7 @@
   </tr>
 </table>
 
-## Linguagens mais usadas
+## Linguagens:
 
 <p align="center">
   <img
@@ -36,7 +36,7 @@
   />
 </p>
 
-## Cobrinha de contribuições
+## Contribuições:
 
 <p align="center">
   <img
